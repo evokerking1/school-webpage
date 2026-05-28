@@ -2,6 +2,10 @@
 /* CSS Document */
 
 
-.body {
-	background: #2F7E2C
+body {
+	background-image: url("back.png");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: white;
 }
