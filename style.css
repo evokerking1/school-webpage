@@ -32,7 +32,22 @@ body {
 #content-index {
 	width: 682px;
 
-	table {
+	text-align: center;
 
+	table {
+		width: 400px;
+		border: 0;
+		stroke: white;
+	}
+
+	td {
+
+	}
+
+	a:link {
+		color: white;
+	}
+	a:visited {
+		color: pink;
 	}
 }
