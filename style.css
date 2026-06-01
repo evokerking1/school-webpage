@@ -41,7 +41,11 @@ body {
 	}
 
 	td {
+		width: 200px;
+	}
 
+	th {
+		color: chocolate;
 	}
 
 	a:link {
