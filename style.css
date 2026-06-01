@@ -66,4 +66,8 @@ body {
 		width: 341px;
 		border: 0;
 	}
+
+	td {
+		text-align: center;
+	}
 }
