@@ -79,4 +79,9 @@ body {
 		width: 1024px;
 		border: 0;
 	}
+
+	td {
+		width: 341px;
+		text-align: center;
+	}
 }
