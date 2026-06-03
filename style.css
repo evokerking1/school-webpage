@@ -71,3 +71,12 @@ body {
 		text-align: center;
 	}
 }
+
+#content-photos {
+	width: 1024px;
+
+	table {
+		width: 1024px;
+		border: 0;
+	}
+}
