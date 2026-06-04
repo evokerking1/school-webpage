@@ -85,3 +85,11 @@ body {
 		text-align: center;
 	}
 }
+
+#content-projects {
+	width: 1024px;
+	table {
+		width: 1024px;
+		border: 0;
+	}
+}
