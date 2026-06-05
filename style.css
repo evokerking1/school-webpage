@@ -92,6 +92,13 @@ body {
 		width: 1024px;
 		border: 0;
 	}
+
+	a:link {
+		color: white;
+	}
+	a:visited {
+		color: pink;
+	}
 }
 
 #content-projects {
