@@ -86,10 +86,19 @@ body {
 	}
 }
 
-#content-projects {
+#content-projects-nav {
 	width: 1024px;
 	table {
 		width: 1024px;
 		border: 0;
+	}
+}
+
+#content-projects {
+	width: 1024px;
+
+	table {
+		border: 0;
+		width: 1024px;
 	}
 }
