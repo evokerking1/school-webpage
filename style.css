@@ -11,7 +11,7 @@ body {
 }
 
 #container {
-	height: 1000px;
+	height: 800px;
 	width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
@@ -53,7 +53,9 @@ body {
 
 	a:link {
 		color: white;
+
 	}
+
 	a:visited {
 		color: pink;
 	}
@@ -95,6 +97,13 @@ body {
 
 	a:link {
 		color: white;
+
+
+		text-decoration: none;
+	}
+
+	a:hover {
+		color: lightgray;
 	}
 	a:visited {
 		color: pink;
